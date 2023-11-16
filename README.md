@@ -10,7 +10,7 @@ Yet another blog-like example, using:
 
 ## Roadmap
 
-- Create a basic example with Docker + PostgreSQL
+- <del>Create a basic example with Docker + PostgreSQL</del> ✅
 - Add the first entity: `Posts`, add Flyway's migrations. Add some superflous column, so it can be dropped eventually
 - Add a service and its tests (hello, TestContainers!)
 - Add `TextComments`, and map the entities accordingly
